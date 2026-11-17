@@ -14,51 +14,54 @@
     .gr { fill: #1cdc9a; }
     .cursor { fill: #fcfcfc; animation: blink 1s steps(1) infinite; }
     @keyframes blink { 50.00% { opacity: 0; } }
-    @keyframes sh2 { 0.00%, 13.77% { fill-opacity: 0; } 13.83%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes sh3 { 0.00%, 15.28% { fill-opacity: 0; } 15.35%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes pr4 { 0.00%, 18.30% { fill-opacity: 0; } 18.37%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes sh5 { 0.00%, 29.94% { fill-opacity: 0; } 30.02%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes sh6 { 0.00%, 30.85% { fill-opacity: 0; } 30.93%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes sh7 { 0.00%, 31.76% { fill-opacity: 0; } 31.83%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes sh8 { 0.00%, 32.67% { fill-opacity: 0; } 32.74%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes pr9 { 0.00%, 35.99% { fill-opacity: 0; } 36.07%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes sh10 { 0.00%, 58.07% { fill-opacity: 0; } 58.15%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes pr11 { 0.00%, 61.10% { fill-opacity: 0; } 61.17%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes cu1 { 0.00%, 5.97% { fill-opacity: 1; } 6.05%, 85.63% { fill-opacity: 0; } 85.71%, 100% { fill-opacity: 1; } }
-    @keyframes k1_0 { 0.00%, 6.05% { fill-opacity: 0; } 6.06%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k1_1 { 0.00%, 7.14% { fill-opacity: 0; } 7.15%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k1_2 { 0.00%, 8.23% { fill-opacity: 0; } 8.25%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k1_3 { 0.00%, 9.32% { fill-opacity: 0; } 9.33%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k1_4 { 0.00%, 10.41% { fill-opacity: 0; } 10.42%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k1_5 { 0.00%, 11.50% { fill-opacity: 0; } 11.52%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k4_0 { 0.00%, 21.32% { fill-opacity: 0; } 21.33%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k4_1 { 0.00%, 22.38% { fill-opacity: 0; } 22.39%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k4_2 { 0.00%, 23.44% { fill-opacity: 0; } 23.45%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k4_3 { 0.00%, 24.50% { fill-opacity: 0; } 24.52%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k4_4 { 0.00%, 25.56% { fill-opacity: 0; } 25.57%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k4_5 { 0.00%, 26.62% { fill-opacity: 0; } 26.63%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k4_6 { 0.00%, 27.68% { fill-opacity: 0; } 27.69%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_0 { 0.00%, 39.02% { fill-opacity: 0; } 39.03%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_1 { 0.00%, 39.98% { fill-opacity: 0; } 39.99%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_2 { 0.00%, 40.96% { fill-opacity: 0; } 40.97%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_3 { 0.00%, 41.92% { fill-opacity: 0; } 41.93%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_4 { 0.00%, 42.89% { fill-opacity: 0; } 42.90%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_5 { 0.00%, 43.86% { fill-opacity: 0; } 43.87%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_6 { 0.00%, 44.83% { fill-opacity: 0; } 44.85%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_7 { 0.00%, 45.79% { fill-opacity: 0; } 45.80%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_8 { 0.00%, 46.77% { fill-opacity: 0; } 46.79%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_9 { 0.00%, 47.73% { fill-opacity: 0; } 47.74%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_10 { 0.00%, 48.70% { fill-opacity: 0; } 48.72%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_11 { 0.00%, 49.67% { fill-opacity: 0; } 49.68%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_12 { 0.00%, 50.63% { fill-opacity: 0; } 50.64%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_13 { 0.00%, 51.60% { fill-opacity: 0; } 51.61%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_14 { 0.00%, 52.57% { fill-opacity: 0; } 52.58%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k9_15 { 0.00%, 53.54% { fill-opacity: 0; } 53.55%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k11_0 { 0.00%, 77.92% { fill-opacity: 0; } 77.93%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k11_1 { 0.00%, 79.05% { fill-opacity: 0; } 79.06%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k11_2 { 0.00%, 80.19% { fill-opacity: 0; } 80.20%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k11_3 { 0.00%, 81.33% { fill-opacity: 0; } 81.34%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
-    @keyframes k11_4 { 0.00%, 82.46% { fill-opacity: 0; } 82.47%, 85.63% { fill-opacity: 1; } 85.71%, 100% { fill-opacity: 0; } }
+    @keyframes sh2 { 0.00%, 12.67% { fill-opacity: 0; } 12.72%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes sh3 { 0.00%, 14.06% { fill-opacity: 0; } 14.12%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes pr4 { 0.00%, 16.84% { fill-opacity: 0; } 16.90%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes sh5 { 0.00%, 31.54% { fill-opacity: 0; } 31.62%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes sh6 { 0.00%, 32.38% { fill-opacity: 0; } 32.46%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes sh7 { 0.00%, 33.22% { fill-opacity: 0; } 33.28%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes sh8 { 0.00%, 34.06% { fill-opacity: 0; } 34.12%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes pr9 { 0.00%, 37.11% { fill-opacity: 0; } 37.18%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes sh10 { 0.00%, 61.42% { fill-opacity: 0; } 61.50%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes pr11 { 0.00%, 64.21% { fill-opacity: 0; } 64.28%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes cu1 { 0.00%, 5.49% { fill-opacity: 1; } 5.57%, 86.78% { fill-opacity: 0; } 86.85%, 100% { fill-opacity: 1; } }
+    @keyframes k1_0 { 0.00%, 5.57% { fill-opacity: 0; } 5.58%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k1_1 { 0.00%, 6.57% { fill-opacity: 0; } 6.58%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k1_2 { 0.00%, 7.57% { fill-opacity: 0; } 7.59%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k1_3 { 0.00%, 8.57% { fill-opacity: 0; } 8.58%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k1_4 { 0.00%, 9.58% { fill-opacity: 0; } 9.59%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k1_5 { 0.00%, 10.58% { fill-opacity: 0; } 10.60%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k4_0 { 0.00%, 23.61% { fill-opacity: 0; } 23.62%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k4_1 { 0.00%, 24.59% { fill-opacity: 0; } 24.60%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k4_2 { 0.00%, 25.56% { fill-opacity: 0; } 25.57%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k4_3 { 0.00%, 26.54% { fill-opacity: 0; } 26.56%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k4_4 { 0.00%, 27.52% { fill-opacity: 0; } 27.54%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k4_5 { 0.00%, 28.49% { fill-opacity: 0; } 28.50%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k4_6 { 0.00%, 29.47% { fill-opacity: 0; } 29.49%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_0 { 0.00%, 43.90% { fill-opacity: 0; } 43.91%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_1 { 0.00%, 44.78% { fill-opacity: 0; } 44.79%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_2 { 0.00%, 45.68% { fill-opacity: 0; } 45.69%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_3 { 0.00%, 46.57% { fill-opacity: 0; } 46.58%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_4 { 0.00%, 47.46% { fill-opacity: 0; } 47.47%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_5 { 0.00%, 48.35% { fill-opacity: 0; } 48.36%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_6 { 0.00%, 49.24% { fill-opacity: 0; } 49.26%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_7 { 0.00%, 50.13% { fill-opacity: 0; } 50.14%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_8 { 0.00%, 51.03% { fill-opacity: 0; } 51.05%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_9 { 0.00%, 51.91% { fill-opacity: 0; } 51.92%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_10 { 0.00%, 52.80% { fill-opacity: 0; } 52.82%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_11 { 0.00%, 53.70% { fill-opacity: 0; } 53.71%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_12 { 0.00%, 54.58% { fill-opacity: 0; } 54.59%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_13 { 0.00%, 55.47% { fill-opacity: 0; } 55.48%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_14 { 0.00%, 56.36% { fill-opacity: 0; } 56.37%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k9_15 { 0.00%, 57.26% { fill-opacity: 0; } 57.27%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k11_0 { 0.00%, 79.69% { fill-opacity: 0; } 79.70%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k11_1 { 0.00%, 80.73% { fill-opacity: 0; } 80.74%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k11_2 { 0.00%, 81.77% { fill-opacity: 0; } 81.78%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k11_3 { 0.00%, 82.82% { fill-opacity: 0; } 82.83%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes k11_4 { 0.00%, 83.86% { fill-opacity: 0; } 83.87%, 86.78% { fill-opacity: 1; } 86.85%, 100% { fill-opacity: 0; } }
+    @keyframes cu4 { 0.00%, 16.84% { fill-opacity: 0; } 16.90%, 23.61% { fill-opacity: 1; } 23.62%, 100% { fill-opacity: 0; } }
+    @keyframes cu9 { 0.00%, 37.11% { fill-opacity: 0; } 37.18%, 43.90% { fill-opacity: 1; } 43.91%, 100% { fill-opacity: 0; } }
+    @keyframes cu11 { 0.00%, 64.21% { fill-opacity: 0; } 64.28%, 79.69% { fill-opacity: 1; } 79.70%, 100% { fill-opacity: 0; } }
   </style>
   <defs>
   </defs>
@@ -73,19 +76,22 @@
     <path d="M853 12l9 9M862 12l-9 9"/>
   </g>
   <text class="t" x="30" y="84"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ </text>
-  <text class="t" x="213.6" y="84"><tspan style="animation: k1_0 11.5s linear infinite">w</tspan><tspan style="animation: k1_1 11.5s linear infinite">h</tspan><tspan style="animation: k1_2 11.5s linear infinite">o</tspan><tspan style="animation: k1_3 11.5s linear infinite">a</tspan><tspan style="animation: k1_4 11.5s linear infinite">m</tspan><tspan style="animation: k1_5 11.5s linear infinite">i</tspan></text>
-  <text class="t" x="30" y="114" style="animation: sh2 11.5s linear infinite">wassim: full-stack engineer by day, Linux tinkerer by night</text>
-  <text class="t g" x="30" y="144" style="animation: sh3 11.5s linear infinite">devops, native tools, open source</text>
-  <text class="t" x="30" y="174" style="animation: pr4 11.5s linear infinite"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ </text>
-  <text class="t" x="213.6" y="174"><tspan style="animation: k4_0 11.5s linear infinite">l</tspan><tspan style="animation: k4_1 11.5s linear infinite">s</tspan><tspan style="animation: k4_2 11.5s linear infinite"> </tspan><tspan style="animation: k4_3 11.5s linear infinite">-</tspan><tspan style="animation: k4_4 11.5s linear infinite">l</tspan><tspan style="animation: k4_5 11.5s linear infinite"> </tspan><tspan style="animation: k4_6 11.5s linear infinite">~</tspan></text>
-  <text class="t" x="30" y="204" style="animation: sh5 11.5s linear infinite"><tspan class="bl b">d</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="gr b">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan>  <tspan class="g">  -</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">17 Nov 01:37</tspan> <tspan class="bl"></tspan> <tspan class="bl b">projects</tspan></text>
-  <text class="t" x="30" y="234" style="animation: sh6 11.5s linear infinite"><tspan class="bl b">d</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="gr b">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan>  <tspan class="g">  -</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">15 Mar 13:20</tspan> <tspan class="bl"></tspan> <tspan class="bl b">themes</tspan></text>
-  <text class="t" x="30" y="264" style="animation: sh7 11.5s linear infinite"><tspan class="bl b">d</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="gr b">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan>  <tspan class="g">  -</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">29 Oct 22:05</tspan> <tspan class="bl"></tspan> <tspan class="bl b">.dotfiles</tspan></text>
-  <text class="t" x="30" y="294" style="animation: sh8 11.5s linear infinite"><tspan class="g">.</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="g">-</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="g">-</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="g">-</tspan>  <tspan class="gr b">341</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">17 Nov 01:37</tspan> <tspan class="g"></tspan> .stack</text>
-  <text class="t" x="30" y="324" style="animation: pr9 11.5s linear infinite"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ </text>
-  <text class="t" x="213.6" y="324"><tspan style="animation: k9_0 11.5s linear infinite">s</tspan><tspan style="animation: k9_1 11.5s linear infinite">u</tspan><tspan style="animation: k9_2 11.5s linear infinite">d</tspan><tspan style="animation: k9_3 11.5s linear infinite">o</tspan><tspan style="animation: k9_4 11.5s linear infinite"> </tspan><tspan style="animation: k9_5 11.5s linear infinite">m</tspan><tspan style="animation: k9_6 11.5s linear infinite">a</tspan><tspan style="animation: k9_7 11.5s linear infinite">k</tspan><tspan style="animation: k9_8 11.5s linear infinite">e</tspan><tspan style="animation: k9_9 11.5s linear infinite"> </tspan><tspan style="animation: k9_10 11.5s linear infinite">c</tspan><tspan style="animation: k9_11 11.5s linear infinite">o</tspan><tspan style="animation: k9_12 11.5s linear infinite">f</tspan><tspan style="animation: k9_13 11.5s linear infinite">f</tspan><tspan style="animation: k9_14 11.5s linear infinite">e</tspan><tspan style="animation: k9_15 11.5s linear infinite">e</tspan></text>
-  <text class="t" x="30" y="354" style="animation: sh10 11.5s linear infinite"><tspan class="ye">󰅶</tspan> brewing... done. Back to work.</text>
-  <text class="t" x="30" y="384" style="animation: pr11 11.5s linear infinite"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ </text>
-  <text class="t" x="213.6" y="384"><tspan style="animation: k11_0 11.5s linear infinite">c</tspan><tspan style="animation: k11_1 11.5s linear infinite">l</tspan><tspan style="animation: k11_2 11.5s linear infinite">e</tspan><tspan style="animation: k11_3 11.5s linear infinite">a</tspan><tspan style="animation: k11_4 11.5s linear infinite">r</tspan></text>
-  <g style="animation: cu1 11.5s linear infinite"><rect class="cursor" x="213.6" y="68" width="11" height="20"/></g>
+  <text class="t" x="213.6" y="84"><tspan style="animation: k1_0 12.5s linear infinite">w</tspan><tspan style="animation: k1_1 12.5s linear infinite">h</tspan><tspan style="animation: k1_2 12.5s linear infinite">o</tspan><tspan style="animation: k1_3 12.5s linear infinite">a</tspan><tspan style="animation: k1_4 12.5s linear infinite">m</tspan><tspan style="animation: k1_5 12.5s linear infinite">i</tspan></text>
+  <text class="t" x="30" y="114" style="animation: sh2 12.5s linear infinite">wassim: full-stack engineer by day, Linux tinkerer by night</text>
+  <text class="t g" x="30" y="144" style="animation: sh3 12.5s linear infinite">devops, native tools, open source</text>
+  <text class="t" x="30" y="174" style="animation: pr4 12.5s linear infinite"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ </text>
+  <text class="t" x="213.6" y="174"><tspan style="animation: k4_0 12.5s linear infinite">l</tspan><tspan style="animation: k4_1 12.5s linear infinite">s</tspan><tspan style="animation: k4_2 12.5s linear infinite"> </tspan><tspan style="animation: k4_3 12.5s linear infinite">-</tspan><tspan style="animation: k4_4 12.5s linear infinite">l</tspan><tspan style="animation: k4_5 12.5s linear infinite"> </tspan><tspan style="animation: k4_6 12.5s linear infinite">~</tspan></text>
+  <text class="t" x="30" y="204" style="animation: sh5 12.5s linear infinite"><tspan class="bl b">d</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="gr b">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan>  <tspan class="g">  -</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">17 Nov 01:37</tspan> <tspan class="bl"></tspan> <tspan class="bl b">projects</tspan></text>
+  <text class="t" x="30" y="234" style="animation: sh6 12.5s linear infinite"><tspan class="bl b">d</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="gr b">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan>  <tspan class="g">  -</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">15 Mar 13:20</tspan> <tspan class="bl"></tspan> <tspan class="bl b">themes</tspan></text>
+  <text class="t" x="30" y="264" style="animation: sh7 12.5s linear infinite"><tspan class="bl b">d</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="gr b">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan>  <tspan class="g">  -</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">29 Oct 22:05</tspan> <tspan class="bl"></tspan> <tspan class="bl b">.dotfiles</tspan></text>
+  <text class="t" x="30" y="294" style="animation: sh8 12.5s linear infinite"><tspan class="g">.</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="g">-</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="g">-</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="g">-</tspan>  <tspan class="gr b">341</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">17 Nov 01:37</tspan> <tspan class="g"></tspan> .stack</text>
+  <text class="t" x="30" y="324" style="animation: pr9 12.5s linear infinite"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ </text>
+  <text class="t" x="213.6" y="324"><tspan style="animation: k9_0 12.5s linear infinite">s</tspan><tspan style="animation: k9_1 12.5s linear infinite">u</tspan><tspan style="animation: k9_2 12.5s linear infinite">d</tspan><tspan style="animation: k9_3 12.5s linear infinite">o</tspan><tspan style="animation: k9_4 12.5s linear infinite"> </tspan><tspan style="animation: k9_5 12.5s linear infinite">m</tspan><tspan style="animation: k9_6 12.5s linear infinite">a</tspan><tspan style="animation: k9_7 12.5s linear infinite">k</tspan><tspan style="animation: k9_8 12.5s linear infinite">e</tspan><tspan style="animation: k9_9 12.5s linear infinite"> </tspan><tspan style="animation: k9_10 12.5s linear infinite">c</tspan><tspan style="animation: k9_11 12.5s linear infinite">o</tspan><tspan style="animation: k9_12 12.5s linear infinite">f</tspan><tspan style="animation: k9_13 12.5s linear infinite">f</tspan><tspan style="animation: k9_14 12.5s linear infinite">e</tspan><tspan style="animation: k9_15 12.5s linear infinite">e</tspan></text>
+  <text class="t" x="30" y="354" style="animation: sh10 12.5s linear infinite"><tspan class="ye">󰅶</tspan> brewing... done. Back to work.</text>
+  <text class="t" x="30" y="384" style="animation: pr11 12.5s linear infinite"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ </text>
+  <text class="t" x="213.6" y="384"><tspan style="animation: k11_0 12.5s linear infinite">c</tspan><tspan style="animation: k11_1 12.5s linear infinite">l</tspan><tspan style="animation: k11_2 12.5s linear infinite">e</tspan><tspan style="animation: k11_3 12.5s linear infinite">a</tspan><tspan style="animation: k11_4 12.5s linear infinite">r</tspan></text>
+  <g style="animation: cu1 12.5s linear infinite"><rect class="cursor" x="213.6" y="68" width="11" height="20"/></g>
+  <g style="animation: cu4 12.5s linear infinite"><rect class="cursor" x="213.6" y="158" width="11" height="20"/></g>
+  <g style="animation: cu9 12.5s linear infinite"><rect class="cursor" x="213.6" y="308" width="11" height="20"/></g>
+  <g style="animation: cu11 12.5s linear infinite"><rect class="cursor" x="213.6" y="368" width="11" height="20"/></g>
 </svg>
