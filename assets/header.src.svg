@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 880 400" width="880" height="400" role="img" aria-label="A terminal: whoami prints wassim, full-stack engineer by day and Linux tinkerer by night; ls lists projects, themes, dotfiles and a stack file; sudo make coffee brews coffee">
+<!-- Text drawn in a subset of JetBrains Mono Nerd Font (JetBrains Mono: Copyright 2020 The JetBrains Mono Project Authors; Nerd Fonts glyphs: their authors), under the SIL Open Font License 1.1: https://openfontlicense.org -->
+  <style>
+    @font-face { font-family: "JBMNF"; font-weight: 400; src: url(data:font/woff2;base64,@REGULAR@) format("woff2"); }
+    @font-face { font-family: "JBMNF"; font-weight: 700; src: url(data:font/woff2;base64,@BOLD@) format("woff2"); }
+    .t { font: 18px "JBMNF", ui-monospace, monospace; fill: #c9d1d9; white-space: pre; }
+    .b { font-weight: 700; }
+    .p { fill: #3fb950; font-weight: 700; }
+    .h { fill: #58a6ff; }
+    .g { fill: #8b949e; }
+    .bl { fill: #58a6ff; }
+    .ye { fill: #d29922; }
+    .re { fill: #f85149; }
+    .gr { fill: #3fb950; }
+    .cursor { fill: #c9d1d9; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .l { opacity: 0; animation: show 0s forwards; }
+    .c rect { width: 0; animation: type steps(40, end) forwards; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes type { to { width: 820px; } }
+  </style>
+  <defs>
+    <clipPath id="c1" class="c"><rect x="30" y="58" height="30" style="animation-duration:.9s;animation-delay:.3s"/></clipPath>
+    <clipPath id="c4" class="c"><rect x="30" y="148" height="30" style="animation-duration:.9s;animation-delay:2.2s"/></clipPath>
+    <clipPath id="c9" class="c"><rect x="30" y="298" height="30" style="animation-duration:.9s;animation-delay:4.3s"/></clipPath>
+  </defs>
+  <rect fill="#0d1117" width="880" height="400" rx="12"/>
+  <rect fill="#161b22" width="880" height="34" rx="12"/>
+  <rect fill="#161b22" y="22" width="880" height="12"/>
+  <circle cx="24" cy="17" r="6" fill="#f85149"/><circle cx="44" cy="17" r="6" fill="#d29922"/><circle cx="64" cy="17" r="6" fill="#3fb950"/>
+  <text class="t g" x="440" y="22" text-anchor="middle" style="font-size:14px">wassim@github: ~</text>
+
+  <g clip-path="url(#c1)"><text class="t" x="30" y="80"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ whoami</text></g>
+  <text class="t l" x="30" y="110" style="animation-delay:1.4s">wassim: full-stack engineer by day, Linux tinkerer by night</text>
+  <text class="t l g" x="30" y="140" style="animation-delay:1.7s">devops, native tools, open source</text>
+
+  <g clip-path="url(#c4)"><text class="t" x="30" y="170"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ ls -l ~</text></g>
+  <text class="t l" x="30" y="200" style="animation-delay:3.3s"><tspan class="bl b">d</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="gr b">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan>    <tspan class="g">-</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">17 Nov 01:37</tspan> <tspan class="bl"></tspan> <tspan class="bl b">projects</tspan></text>
+  <text class="t l" x="30" y="230" style="animation-delay:3.45s"><tspan class="bl b">d</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="gr b">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan>    <tspan class="g">-</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">15 Mar 13:20</tspan> <tspan class="bl"></tspan> <tspan class="bl b">themes</tspan></text>
+  <text class="t l" x="30" y="260" style="animation-delay:3.6s"><tspan class="bl b">d</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="gr b">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="gr">x</tspan>    <tspan class="g">-</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">29 Oct 22:05</tspan> <tspan class="bl"></tspan> <tspan class="bl b">.dotfiles</tspan></text>
+  <text class="t l" x="30" y="290" style="animation-delay:3.75s"><tspan class="g">.</tspan><tspan class="ye b">r</tspan><tspan class="re b">w</tspan><tspan class="g">-</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="g">-</tspan><tspan class="ye">r</tspan><tspan class="g">-</tspan><tspan class="g">-</tspan>  <tspan class="gr b">341</tspan> <tspan class="ye b">wassim</tspan> <tspan class="bl">17 Nov 01:37</tspan> <tspan class="g"></tspan> .stack</text>
+
+  <g clip-path="url(#c9)"><text class="t" x="30" y="320"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ sudo make coffee</text></g>
+  <text class="t l" x="30" y="350" style="animation-delay:5.6s"><tspan class="ye">󰅶</tspan> brewing... done. Back to work.</text>
+  <g class="l" style="animation-delay:6s"><text class="t" x="30" y="380"><tspan class="p">wassim@github</tspan>:<tspan class="h">~</tspan>$ </text><rect class="cursor" x="214" y="364" width="11" height="20"/></g>
+</svg>

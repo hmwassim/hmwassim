@@ -1,26 +1,41 @@
-![header](assets/header.gif)
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px" alt="Waving Hand"/>
-  Hi, I'm Wassim!
-  <img align="right" src="https://komarev.com/ghpvc/?username=habibimedwassim" alt="GitHub profile views counter">
-</h1>
+![header](assets/header.svg)
 
-<ul>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px" alt="Computer"/> Full-stack engineer</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px" alt="Medal"/> Scalable architectures & automation</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25px" alt="Brain"/> Clean code, DevOps, Linux, Game dev</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25px" alt="Lightning"/> Coffee & late-night debugging</li>
-</ul>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=habibimedwassim" alt="GitHub profile views counter"></p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<pre>
+<b>wassim@github</b>:~$ whoami
+Wassim: full-stack engineer by day, Linux tinkerer by night.
+Scalable architectures, automation, clean code, coffee.
 
-## 🌐 Socials:
-[![X](https://shieldcn.dev/badge/-000000.svg?size=xs&font=jetbrains-mono&logo=x&logoColor=white)](https://x.com/habibimedwassim) [![Email](https://shieldcn.dev/badge/-Email-D14836.svg?size=xs&font=jetbrains-mono&logo=gmail&logoColor=white)](mailto:habibimedwassim@gmail.com)
+<b>wassim@github</b>:~$ ls ~/projects/dovy
+📁 <a href="https://github.com/getdovy/dovy">dovy/</a>                     newer and missing software for Debian stable
+📁 <a href="https://github.com/getdovy/dovy-catalog">dovy-catalog/</a>             its signed recipes
+📁 <a href="https://github.com/getdovy/dovy-kernel">dovy-kernel/</a>              Debian's backports kernel, tweaked for speed
 
-# 💻 Tech Stack:
-![C](https://shieldcn.dev/badge/C-00599C.svg?size=xs&font=jetbrains-mono) ![C#](https://shieldcn.dev/badge/-C%23-239120.svg?size=xs&font=jetbrains-mono&logo=csharp&logoColor=white) ![C++](https://shieldcn.dev/badge/-C%2B%2B-00599C.svg?size=xs&font=jetbrains-mono&logo=cplusplus&logoColor=white) ![Dart](https://shieldcn.dev/badge/-Dart-0175C2.svg?size=xs&font=jetbrains-mono&logo=dart&logoColor=white) ![Go](https://shieldcn.dev/badge/-Go-00ADD8.svg?size=xs&font=jetbrains-mono&logo=go&logoColor=white) ![Java](https://shieldcn.dev/badge/-Java-ED8B00.svg?size=xs&font=jetbrains-mono&logo=openjdk&logoColor=white) ![JavaScript](https://shieldcn.dev/badge/-JavaScript-F7DF1E.svg?size=xs&font=jetbrains-mono&logo=javascript&logoColor=000000) ![Python](https://shieldcn.dev/badge/-Python-3776AB.svg?size=xs&font=jetbrains-mono&logo=python&logoColor=white) ![Rust](https://shieldcn.dev/badge/-Rust-000000.svg?size=xs&font=jetbrains-mono&logo=rust&logoColor=white) ![TypeScript](https://shieldcn.dev/badge/-TypeScript-3178C6.svg?size=xs&font=jetbrains-mono&logo=typescript&logoColor=white) ![CSS](https://shieldcn.dev/badge/-CSS-1572B6.svg?size=xs&font=jetbrains-mono&logo=css3&logoColor=white) ![HTML](https://shieldcn.dev/badge/-HTML-E34F26.svg?size=xs&font=jetbrains-mono&logo=html5&logoColor=white) ![jQuery](https://shieldcn.dev/badge/-jQuery-0769AD.svg?size=xs&font=jetbrains-mono&logo=jquery&logoColor=white) ![React](https://shieldcn.dev/badge/-React-20232a.svg?size=xs&font=jetbrains-mono&logo=react&logoColor=61DAFB) ![Tailwind](https://shieldcn.dev/badge/-Tailwind-06B6D4.svg?size=xs&font=jetbrains-mono&logo=tailwindcss&logoColor=white) ![Vite](https://shieldcn.dev/badge/-Vite-646CFF.svg?size=xs&font=jetbrains-mono&logo=vite&logoColor=white) ![Flutter](https://shieldcn.dev/badge/-Flutter-02569B.svg?size=xs&font=jetbrains-mono&logo=flutter&logoColor=white) ![.NET](https://shieldcn.dev/badge/-.NET-512BD4.svg?size=xs&font=jetbrains-mono&logo=dotnet&logoColor=white) ![CMake](https://shieldcn.dev/badge/-CMake-064F8C.svg?size=xs&font=jetbrains-mono&logo=cmake&logoColor=white) ![Express.js](https://shieldcn.dev/badge/-Express.js-000000.svg?size=xs&font=jetbrains-mono&logo=express&logoColor=white) ![Node.js](https://shieldcn.dev/badge/-Node.js-339933.svg?size=xs&font=jetbrains-mono&logo=nodedotjs&logoColor=white) ![SignalR](https://shieldcn.dev/badge/-SignalR-512BD4.svg?size=xs&font=jetbrains-mono&logo=lu%3ARadio) ![Socket.io](https://shieldcn.dev/badge/-Socket.io-010101.svg?size=xs&font=jetbrains-mono&logo=socketdotio&logoColor=white) ![Spring](https://shieldcn.dev/badge/-Spring-6DB33F.svg?size=xs&font=jetbrains-mono&logo=spring&logoColor=white) ![AWS](https://shieldcn.dev/badge/-AWS-FF9900.svg?size=xs&font=jetbrains-mono&logo=amazonwebservices&logoColor=white) ![Azure](https://shieldcn.dev/badge/-Azure-0072C6.svg?size=xs&font=jetbrains-mono&logo=microsoftazure&logoColor=white) ![Bash](https://shieldcn.dev/badge/-Bash-4EAA25.svg?size=xs&font=jetbrains-mono&logo=gnubash&logoColor=white) ![Zsh](https://shieldcn.dev/badge/-Zsh-4E4E4E.svg?size=xs&font=jetbrains-mono&logo=lu%3ATerminal) ![Fish](https://shieldcn.dev/badge/-Fish-2E8B57.svg?size=xs&font=jetbrains-mono&logo=lu%3ATerminal) ![Firebase](https://shieldcn.dev/badge/-Firebase-FFCA28.svg?size=xs&font=jetbrains-mono&logo=firebase&logoColor=000000) ![Git](https://shieldcn.dev/badge/-Git-F05032.svg?size=xs&font=jetbrains-mono&logo=git&logoColor=white) ![GitHub Actions](https://shieldcn.dev/badge/-GitHub%20Actions-2088FF.svg?size=xs&font=jetbrains-mono&logo=githubactions&logoColor=white) ![GitLab-CI](https://shieldcn.dev/badge/-GitLab%20CI-FC6D26.svg?size=xs&font=jetbrains-mono&logo=gitlab&logoColor=white) ![Linux](https://shieldcn.dev/badge/-Linux-FCC624.svg?size=xs&font=jetbrains-mono&logo=linux&logoColor=000000) ![MongoDB](https://shieldcn.dev/badge/-MongoDB-47A248.svg?size=xs&font=jetbrains-mono&logo=mongodb&logoColor=white) ![Microsoft SQL Server](https://shieldcn.dev/badge/-Microsoft%20SQL%20Server-CC2927.svg?size=xs&font=jetbrains-mono&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://shieldcn.dev/badge/-MySQL-4479A1.svg?size=xs&font=jetbrains-mono&logo=mysql&logoColor=white) ![SQLite](https://shieldcn.dev/badge/-SQLite-003B57.svg?size=xs&font=jetbrains-mono&logo=sqlite&logoColor=white) ![Adobe XD](https://shieldcn.dev/badge/-Adobe%20XD-470137.svg?size=xs&font=jetbrains-mono&logo=adobexd&logoColor=FF61F6) ![Figma](https://shieldcn.dev/badge/-Figma-F24E1E.svg?size=xs&font=jetbrains-mono&logo=figma&logoColor=white) ![Unity](https://shieldcn.dev/badge/-Unity-000000.svg?size=xs&font=jetbrains-mono&logo=unity&logoColor=white) ![Unreal Engine](https://shieldcn.dev/badge/-Unreal%20Engine-313131.svg?size=xs&font=jetbrains-mono&logo=unrealengine&logoColor=white)
+<b>wassim@github</b>:~$ ls ~/projects/linux
+📁 <a href="https://github.com/hmwassim/scx-switcher">scx-switcher/</a>             start, stop and switch sched_ext schedulers
+📁 <a href="https://github.com/hmwassim/scx-bundler">scx-bundler/</a>              Debian packages of the sched_ext schedulers
+📁 <a href="https://github.com/hmwassim/nvflux">nvflux/</a>                   HDMI and DisplayPort audio fix for NVIDIA
+
+<b>wassim@github</b>:~$ ls ~/projects/windows
+📁 <a href="https://github.com/hmwassim/LiteDDC">LiteDDC/</a>                  monitor brightness and colour from the tray
+📁 <a href="https://github.com/hmwassim/LiteZones">LiteZones/</a>                lightweight window zone snapping
+
+<b>wassim@github</b>:~$ ls ~/themes
+🎨 <a href="https://github.com/hmwassim/WhiteSur-Nord-ulauncher">WhiteSur-Nord-ulauncher/</a>  Ulauncher
+🎨 <a href="https://github.com/hmwassim/breeze-onyx">breeze-onyx/</a>              KDE Breeze, darker
+🎨 <a href="https://github.com/hmwassim/material-one-dark-vscode">material-one-dark-vscode/</a> VS Code
+🎨 <a href="https://github.com/hmwassim/matcha-dark-aliz">matcha-dark-aliz/</a>         GTK and Kvantum
+
+<b>wassim@github</b>:~$ cat ~/.stack
+languages    Go  C++  C  C#  TypeScript  Dart  Python
+frameworks   .NET  React  Node.js  Flutter  Unity
+devops       Kubernetes  Argo CD  Terraform  Ansible  Docker  GitHub Actions
+tools        Linux  Git
+
+<b>wassim@github</b>:~$ cat ~/.contact
+x            <a href="https://x.com/habibimedwassim">@habibimedwassim</a>
+email        <a href="mailto:habibimedwassim@gmail.com">habibimedwassim@gmail.com</a>
+
+<b>wassim@github</b>:~$ _
+</pre>
