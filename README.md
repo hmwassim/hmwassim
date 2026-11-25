@@ -1,7 +1,5 @@
 ![header](assets/header.svg)
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=habibimedwassim" alt="GitHub profile views counter"></p>
-
 <pre>
 <b>wassim@github</b>:~$ whoami
 Wassim: full-stack engineer by day, Linux tinkerer by night.
