@@ -14,7 +14,8 @@ Scalable architectures, automation, clean code, coffee.
 
 <b>wassim@github</b>:~$ ls ~/projects/linux
 📁 <a href="https://github.com/hmwassim/scx-switcher">scx-switcher/</a>             start, stop and switch sched_ext schedulers
-📁 <a href="https://github.com/hmwassim/scx-bundler">scx-bundler/</a>              Debian packages of the sched_ext schedulers
+📁 <a href="https://github.com/hmwassim/scx-scheds">scx-scheds/</a>               Debian package of the sched_ext schedulers
+📁 <a href="https://github.com/hmwassim/scx-tools">scx-tools/</a>                Debian package of scx_loader and scxctl
 📁 <a href="https://github.com/hmwassim/nvflux">nvflux/</a>                   HDMI and DisplayPort audio fix for NVIDIA
 
 <b>wassim@github</b>:~$ ls ~/projects/windows
@@ -22,10 +23,10 @@ Scalable architectures, automation, clean code, coffee.
 📁 <a href="https://github.com/hmwassim/LiteZones">LiteZones/</a>                lightweight window zone snapping
 
 <b>wassim@github</b>:~$ ls ~/themes
-🎨 <a href="https://github.com/hmwassim/WhiteSur-Nord-ulauncher">WhiteSur-Nord-ulauncher/</a>  Ulauncher
 🎨 <a href="https://github.com/hmwassim/breeze-onyx">breeze-onyx/</a>              KDE Breeze, darker
-🎨 <a href="https://github.com/hmwassim/material-one-dark-vscode">material-one-dark-vscode/</a> VS Code
 🎨 <a href="https://github.com/hmwassim/matcha-dark-aliz">matcha-dark-aliz/</a>         GTK and Kvantum
+🎨 <a href="https://github.com/hmwassim/material-one-dark-vscode">material-one-dark-vscode/</a> VS Code
+🎨 <a href="https://github.com/hmwassim/WhiteSur-Nord-ulauncher">WhiteSur-Nord-ulauncher/</a>  Ulauncher
 
 <b>wassim@github</b>:~$ cat ~/.stack
 languages    Go  C++  C  C#  TypeScript  Dart  Python
